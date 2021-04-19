@@ -1,0 +1,22 @@
+SMAP
+Delete_005fArticle_jsp.java
+JSP
+*S JSP
+*F
++ 0 Delete_Article.jsp
+Delete_Article.jsp
+*L
+5,12:45
+17:57,3
+18,2:60
+20,8:63
+27:71
+28:72,3
+29,14:75
+43:90,2
+44,10:92
+53,2:102
+54,5:104
+59:109,3
+60,5:112
+*E
